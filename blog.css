@@ -1,0 +1,10 @@
+.headerImg{
+  height: 250px;
+  width: 500px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #fae1dd;
+  border-radius: 10px;
+}
