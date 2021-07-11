@@ -1,0 +1,21 @@
+.diy_nav{
+  padding: 10px 30px;
+  margin: 0 25px 0 25px;
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  border: dotted 2px #83c5be;
+  border-radius: 5px;
+}
+
+.diy_nav li {
+  float: left;
+}
+
+.diy_nav li a{
+  color: #9B6A6C;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}

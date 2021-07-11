@@ -34,6 +34,28 @@
   background-color: #ff006e
 }
 
+/* .diy_nav{
+  padding: 10px 30px;
+  margin: 0 25px 0 25px;
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  border: dotted 2px #83c5be;
+  border-radius: 5px;
+}
+
+.diy_nav li {
+  float: left;
+}
+
+.diy_nav li a{
+  color: #9B6A6C;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+} */
+
 .page {
   padding: 10px 30px;
   margin: 0 25px 0 25px;
@@ -48,7 +70,7 @@
 .carousel-item active{
   border: 1px solid black;
   /* margin: 50px 350px 50px 400px; */
-  
+ 
 }
 
 ul {
@@ -58,12 +80,14 @@ ul {
 h4 {
   font-family: 'Great Vibes', cursive;
 }
+
 p {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
   padding: 25px 60px;
   text-align: center;
 }
+
 .about_font{
   font-size: 75px;
   color: #f2f2f2;
