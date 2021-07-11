@@ -33,6 +33,7 @@
 .navbar li a.active {
   background-color: #ff006e
 }
+
 .page {
   padding: 10px 30px;
   margin: 0 25px 0 25px;
@@ -216,4 +217,9 @@ p {
   background-color: #d8e2dc;
   color: #003049;
   transform: rotateY(180deg);
+}
+
+footer {
+  background-color: #83c5be;
+  color: #f2f2f2;
 }
