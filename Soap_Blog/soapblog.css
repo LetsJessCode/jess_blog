@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+.diy_nav{
+  padding: 10px 30px;
+  margin: 0 25px 0 25px;
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  border: dotted 2px #83c5be;
+  border-radius: 5px;
+}
+
+.diy_nav li {
+  float: left;
+}
+
+.diy_nav li a{
+  color: #9B6A6C;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.bathbombsborder{
+  padding-top: 15px;
+  margin: 0 25px 0 90px;
+  text-align: center; 
+  border: .5px dotted #685F74;
+  border-radius: 5px;
+}
+.bbfont{
+  color: #685F74;
+}
+.funsoapsborder{
+  padding-top: 15px;
+  margin: 0 25px 0 90px;
+  text-align: center; 
+  border: .5px dotted #3d5a80;
+  border-radius: 5px;
+}
+
+.funfont{
+  color: #3d5a80;
+}
+
+.soapsborder{
+  padding-top: 15px;
+  margin: 0 25px 0 90px;
+  text-align: center; 
+  border: .5px dotted #52796f;
+  border-radius: 5px;
+}
+
+.soapfont{
+  color: #52796f;
+}
+
+
